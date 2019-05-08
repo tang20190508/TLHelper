@@ -1,0 +1,27 @@
+{
+  "name": "TLHelper",
+  "version": "0.1.0",
+  "summary": "各种工具类集合",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tang20190508/TLHelper",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "q15201138763@163.com": "q15201138763@163.com"
+  },
+  "source": {
+    "git": "https://github.com/tang20190508/TLHelper.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TLHelper/Classes/**/*",
+  "dependencies": {
+    "MJRefresh": [
+
+    ]
+  }
+}

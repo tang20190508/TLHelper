@@ -1,0 +1,23 @@
+PODS:
+  - MJRefresh (3.2.0)
+  - TLHelper (0.1.0):
+    - MJRefresh
+
+DEPENDENCIES:
+  - TLHelper (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MJRefresh
+
+EXTERNAL SOURCES:
+  TLHelper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  TLHelper: b2442a3380e4deee96abf37ba2e00bc3de37f934
+
+PODFILE CHECKSUM: 5c9a5c3ac12e0480101a5cd8eeba8ff57a5f73dc
+
+COCOAPODS: 1.5.3

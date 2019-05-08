@@ -1,0 +1,6 @@
+framework module Pods_TLHelper_Example {
+  umbrella header "Pods-TLHelper_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
